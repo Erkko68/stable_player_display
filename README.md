@@ -1,6 +1,10 @@
 # Stable Player Display
 
-This repository contains models and shaders to display any player skin using only a resource pack and display entities.
+
+> [!IMPORTANT]
+> Active development on this fork has been **discontinued**. Please refer to the **original repository** for the most up-to-date version: [bradleyq/stable\_player\_display](https://github.com/bradleyq/stable_player_display/tree/main).
+
+---
 
 **The original repository is [here](https://github.com/bradleyq/stable_player_display/tree/main). This fork is intended to update the original work as long as I'm capable of doing so, and to provide better compatibility with [Animated Java](https://animated-java.dev/).**
 
